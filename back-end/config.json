@@ -1,0 +1,13 @@
+{
+  "simulation" : false,
+  "private" : "3c4a2938c7694a799581f53faf49e2124cbe1ca740cb363fe98f910768f1a06f",
+  "provider": "https://bsc-dataseed.binance.org",
+  "wbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "usdt" : "0x55d398326f99059fF775485246999027B3197955",
+  "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+  "tokenName": "Grinch",
+  "tokenOut": "0xb0a1fe0ce1417813eb6f229c2782150b2834e54e",
+  "sellAmnt" : 100,
+  "timeout" : 24
+}
+
